@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dataColor">#FEFEFE</color>
+
+    <color name="yellow">#ffcc00</color>
+
+    <color name="greenCover">#388e3c</color>
+
+    <color name="darkGreen">#1b5e20</color>
+
+    <color name="red">#b71c1c</color>
+
+    <color name="gray">#808080</color>
+
+    <color name="gray2">#bdbdbd</color>
+
+    <color name="black">#000</color>
+
+    <color name="white">#fff</color>
+
+    <color name="backRel">#eeeeee</color>
+</resources>
